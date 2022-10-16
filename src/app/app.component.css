@@ -1,0 +1,7 @@
+*{
+    width: 100vh;
+    margin: 10px;
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+}
